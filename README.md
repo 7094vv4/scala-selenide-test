@@ -1,0 +1,3 @@
+# ScalaSelenideTest
+
+ScalaでSelenideを使うテスト
